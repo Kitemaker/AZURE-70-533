@@ -8,3 +8,4 @@ C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\myconsoleapp\obj\Debug\netco
 C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.AssemblyInfo.cs
 C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.dll
 C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.pdb
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\myconsoleapp\obj\Debug\netcoreapp2.0\myconsoleapp.csprojResolveAssemblyReference.cache

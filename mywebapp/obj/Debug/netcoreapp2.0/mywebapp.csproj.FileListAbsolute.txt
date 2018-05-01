@@ -1,0 +1,11 @@
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.deps.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.runtimeconfig.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.runtimeconfig.dev.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.dll
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\bin\Debug\netcoreapp2.0\mywebapp.pdb
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.csprojResolveAssemblyReference.cache
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.csproj.CoreCompileInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.AssemblyInfoInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.AssemblyInfo.cs
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.dll
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\mywebapp\obj\Debug\netcoreapp2.0\mywebapp.pdb
