@@ -1,0 +1,11 @@
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.deps.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.runtimeconfig.dev.json
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.dll
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\bin\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csproj.CoreCompileInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfoInputs.cache
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.AssemblyInfo.cs
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.dll
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.pdb
+C:\Users\Saleem Javed\Documents\GitHub\AZURE-70-533\RazorPagesMovie\RazorPagesMovie\obj\Debug\netcoreapp2.0\RazorPagesMovie.csprojResolveAssemblyReference.cache
